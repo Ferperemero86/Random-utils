@@ -8,6 +8,6 @@
    - getGreatestProductOfConsecutiveDigits(n): Gets the product of the consecutive numbers provided by the user.
    - countInstancesOfNumber(n): Gets the instances of a number provided by the user in the main random number.
    
- 2. Technologie used:
+ 2. Technologies used:
  
   - HTML,CSS,JAVASCRIPT(ES6)
