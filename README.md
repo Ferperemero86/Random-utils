@@ -10,4 +10,4 @@
    
  2. Technologies used:
  
-  - HTML,CSS,JAVASCRIPT(ES6)
+  - HTML, CSS, JAVASCRIPT(ES6)
