@@ -80,30 +80,30 @@ body {
 
 #wrapp .first-heading {
     font-size: 1.3em;
-    padding: 0 0 0 27%;
+    padding: 0 0 0 10%;
     margin: 0 0 50px;
 }
 
 #wrapp .second-heading {
     font-size: 1.1em;
-    padding: 0 0 0 27%;
+    padding: 0 0 0 10%;
     margin: 0 0 30px 0;
 }
 
 #wrapp .task-field {
-    margin: 30px 0 0 27%;
-    width: 50%;
+    margin: 30px 0 0 10%;
+    width: 80%;
     text-align: justify;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #wrapp .first-heading,
     #wrapp .second-heading {
-        padding: 0 0 0 40%; 
+        padding: 0 0 0 20%; 
     }
 
     #wrapp .task-field {
-        margin: 0 0 0 40%;
+        margin: 0 0 0 20%;
     }
 }
 
